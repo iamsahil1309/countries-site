@@ -1,4 +1,4 @@
-# Mini REST Countries Explorer
+# REST Countries Explorer
 
 A cool, interactive web application that lets you explore country data using the new **React Router V7** framework. This project fetches data from the [REST Countries API](https://restcountries.com) and allows you to filter and view detailed information about countries, including their names, capitals, regions, populations, and flags.
 
@@ -32,8 +32,8 @@ _(Replace `#` with your live demo link when available)_
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/mini-rest-countries-explorer.git
-   cd mini-rest-countries-explorer
+   git clone https://github.com/iamsahil1309/countries-site.git
+   cd countries-site
    ```
 
 2. **Install dependencies:**
