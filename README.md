@@ -21,11 +21,6 @@ A cool, interactive web application that lets you explore country data using the
 - **Responsive UI:** Styled with Tailwind CSS to create a modern, responsive interface.
 - **Modular Code:** Organized into reusable components for easy scaling and maintenance.
 
-## Demo
-
-_Link to Demo:_  
-countries-site-mu.vercel.app
-
 ## Installation
 
 1. **Clone the repository:**
